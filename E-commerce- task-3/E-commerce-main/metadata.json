@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Shopping Platform",
+  "description": "A fully functional, high-fidelity frontend e-commerce platform featuring active product filters, search, shopping cart management, a details modal, wishlist, and an interactive simulated checkout workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
