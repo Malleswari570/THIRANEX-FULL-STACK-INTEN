@@ -1,0 +1,6 @@
+{
+  "name": "Blog Platform with Comments",
+  "description": "A fully functional full-stack blogging platform where users can register, log in, create, edit, and delete posts, and interact with others via a comment system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
